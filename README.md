@@ -4,6 +4,6 @@ Trabalho de IA
 Construção de uma rede meural básica.
 
 ![alt text](https://github.com/limeiragabriel/Perceptron/blob/master/ScreenShots/01.png?raw=true)
-![alt text](https://github.com/limeiragabriel/Perceptron/tree/master/ScreenShots/02.png)
-![alt text](https://github.com/limeiragabriel/Perceptron/tree/master/ScreenShots/03.png)
-![alt text](https://github.com/limeiragabriel/Perceptron/tree/master/ScreenShots/04.png)
+![alt text](https://github.com/limeiragabriel/Perceptron/blob/master/ScreenShots/02.png?raw=true)
+![alt text](https://github.com/limeiragabriel/Perceptron/blob/master/ScreenShots/03.png?raw=true)
+![alt text](https://github.com/limeiragabriel/Perceptron/blob/master/ScreenShots/04.png?raw=true)
